@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi mình là bé kìu 👋
 
 **kieuli/kieuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
